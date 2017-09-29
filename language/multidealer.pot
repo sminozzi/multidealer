@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multidealer\n"
+"POT-Creation-Date: 2017-09-29 09:05-0000\n"
+"PO-Revision-Date: 2017-09-29 09:05-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_\n"
+"X-Poedit-SearchPath-0: f:\\wordpress\\multidealer\\trunk\n"
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:21
+msgid "Request Information"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:25
+msgid "Your Name"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:28
+msgid "Please type your name"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:31
+msgid "Your Email"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:34
+msgid "Please type your email"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:38
+msgid "Your Message"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:40
+msgid "Please type your message"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:46
+msgid "Send"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/contact-form/multi-contact-show-form.php:47
+msgid "Cancel"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:47
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:129
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:228
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:272
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:291
+msgid "Overview"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:134
+msgid "Field Types"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:139
+msgid "Add Fields Form"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:144
+msgid "Edit and Trash Fields"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:233
+msgid "Makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:238
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:102
+msgid "Location"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:243
+msgid "Edit and Trash Products"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:248
+msgid "Featured Images"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/help/help.php:253
+msgid "Images Gallery"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/meta-box.php:4
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/meta-box.php:11
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/meta-box.php:18
+msgid "Mark to show up at Featured Widget."
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/meta-box.php:125
+msgid "Details"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:53
+msgid "Parent makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:54
+msgid "Parent makes:"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:55
+msgid "Edit makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:56
+msgid "Update makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:57
+msgid "Add New makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:58
+msgid "New makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:59
+msgid "Separate makes with commas"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:60
+msgid "Add or Remove makes"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:61
+msgid "Choose from the most used makers"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:81
+msgid "Parent locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:82
+msgid "Parent locations:"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:83
+msgid "Edit locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:84
+msgid "Update locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:85
+msgid "Add New locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:86
+msgid "New locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:87
+msgid "Separate locations with commas"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:88
+msgid "Add or Remove locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:89
+msgid "Choose from the most used locations"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:142
+msgid "Featured Image"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/post-type/post-functions.php:170
+msgid "Call For Price"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/search/search-function.php:18
+#: f:\wordpress\multidealer\trunk/includes/search/search-function.php:220
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:187
+msgid "Search"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/search/search-function.php:167
+#: f:\wordpress\multidealer\trunk/includes/search/search-function.php:195
+msgid "Price Range"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:72
+msgid "Make"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:78
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:90
+msgid "Model"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:108
+msgid "Options"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:150
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom1.php:200
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom3.php:159
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:65
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:142
+msgid "Call for Price"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:162
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom1.php:203
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom3.php:162
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:67
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:144
+msgid "Year"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:167
+msgid "Cond"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-functions.php:168
+msgid "HP"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom1.php:226
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom3.php:184
+msgid "Back"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom1.php:227
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom3.php:185
+msgid "Onward"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom1.php:237
+#: f:\wordpress\multidealer\trunk/includes/templates/template-showroom3.php:194
+msgid "Not Found !"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/templates/template-single.php:27
+msgid "Contact Us"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:15
+msgid "A list of Recent products"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:42
+msgid "New Arrivals"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:88
+msgid "A list of Featured products"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:112
+msgid "Featured products"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:162
+msgid "Search products"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/includes/widgets/widgets.php:174
+msgid "Title"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:19
+msgid "Currency"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:33
+msgid "Miles - Km"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:35
+msgid "Miles"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:36
+msgid "Kms"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:37
+msgid "Hours"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:43
+msgid "Liters - Gallons"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:45
+msgid "Liters"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:46
+msgid "Gallons"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:63
+msgid "How many products would you like to display per page?"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:87
+msgid "Remove Sidebar from Search Result Page"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:96
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:105
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+
+#: f:\wordpress\multidealer\trunk/settings/options/plugin_options_tabbed.php:110
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr ""
